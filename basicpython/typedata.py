@@ -1,0 +1,12 @@
+print('menentukan type data')
+a=type(2.5)
+b=type(2)
+c=type(2+3j)
+d=type(True)
+e=type('abc')
+print('2.5 merupakan',a)
+print('2 merupakan',b)
+print('2+3j merupakan',c)
+print('True merupakan',d)
+print('abc merupakan',e)
+
